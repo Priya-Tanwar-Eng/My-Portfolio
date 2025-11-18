@@ -43,8 +43,8 @@ export default function Portfolio() {
       title: "Navgurukul Sarjapur Website",
       description: "Official website for Navgurukul Sarjapur campus, showcasing programs, events, and contact information with a modern design approach.",
       tech: ["React.js", "HTML5", "CSS3"],
-      liveLink: "https://navgurukul-sarjapur-website.vercel.app/contact",
-      github: "https://github.com/Priya-Tanwar-Eng/navgurukul-sarjapur-website",
+      liveLink: "https://navgurukul-sarjapur-website.vercel.app/",
+      github: "https://github.com/Priya-Tanwar-Eng/navgurukul-sarjapurwebsite",
       badge: "Educational",
       image: navgurukulImg
     }
