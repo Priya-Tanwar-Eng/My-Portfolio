@@ -53,7 +53,7 @@ export default function Portfolio() {
   const skills = {
     "Programming Languages": ["C++", "PHP","JavaScript"],
     "Frontend Development": ["HTML5", "CSS3", "JavaScript", "React.js", "Next.js"],
-    "Backend Development": ["Node.js", "MySQL", "MongoDB"],
+    "Backend Development": ["Node.js","Express", "MySQL", "MongoDB"],
     "Tools & Platforms": ["Git", "GitHub", "VS Code"],
     "Design & Soft Skills": ["UI/UX Design", "Leadership", "Team Collaboration", "Problem-Solving"]
   };
